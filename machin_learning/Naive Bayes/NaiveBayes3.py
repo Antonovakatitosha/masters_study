@@ -6,6 +6,7 @@ from sklearn.naive_bayes import CategoricalNB
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_iris
 
+
 # Loading the Iris dataset
 # iris = pd.read_csv('bezdekIris.csv')
 iris_data = load_iris()
